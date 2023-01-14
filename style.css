@@ -1,7 +1,7 @@
 p{
     color: rgb(68, 0, 255);
+    border: 1px solid;
 }
 h1{
     background-color: aqua;
-    background-size: 300px;
 }
